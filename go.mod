@@ -1,3 +1,3 @@
-module github.com/claranet/go-zabbix-api
+module github.com/DmitriySolopenkov/go-zabbix-api
 
 go 1.12
