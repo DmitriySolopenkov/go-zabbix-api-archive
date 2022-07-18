@@ -1,5 +1,7 @@
 # Go zabbix api
 
+![Build Status](https://github.com/claranet/terraform-provider-gitlab/workflows/Test%20and%20release/badge.svg)
+
 [![GoDoc](https://godoc.org/github.com/DmitriySolopenkov/go-zabbix-api?status.svg)](https://godoc.org/github.com/DmitriySolopenkov/go-zabbix-api) [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Build Status](https://travis-ci.org/DmitriySolopenkov/go-zabbix-api.svg?branch=master)](https://travis-ci.org/DmitriySolopenkov/go-zabbix-api)
 
 This Go package provides access to Zabbix API.
